@@ -1,0 +1,68 @@
+.source{color:red}
+body {
+  background-color: white;
+  text-align: center;
+
+}
+
+h1, h3, p {
+  text-align: center;
+}
+
+
+/* ------------------------------------------ */
+
+path {
+  stroke: black;
+  stroke-width: 0.5px;
+  fill: white;
+overflow: hidden;
+}
+
+#tooltip {
+    font-family: 'Space Mono', monospace;
+     color:white;
+  text-align: left;
+  padding: 16px;
+  background-color: black;
+  border: 2px solid red;
+  width: auto;
+  opacity: 0.9;
+  position: absolute;
+}
+
+/*
+ * Footer
+ */
+a:link {
+  color: orangered;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orangered;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+.tableFooter {
+  margin-top: 15px;
+}
+
+.footerSvg {
+  width: 32px;
+}
+svg{zoom:1.6;}
+
+::-webkit-scrollbar {
+    width: 6px;
+    background-color: transparent;
+}
+
+#source{
+    font-family: 'Space Mono', monospace;color:red;
+background-color: black;}
