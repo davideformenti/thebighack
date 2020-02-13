@@ -59,7 +59,7 @@ a:hover {
 svg{zoom:1.6;}
 
 ::-webkit-scrollbar {
-    width: 6px;
+    width: 0px;
     background-color: transparent;
 }
 
